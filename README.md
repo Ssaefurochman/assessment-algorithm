@@ -1,2 +1,2 @@
 # assessment-algorythm
-A repository of Vue to answer some algorythm assessments
+A repository of Vue to answer some algorthm assessments
